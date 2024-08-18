@@ -2,7 +2,7 @@ import React from 'react'
 
 function Explore() {
   return (
-    <div>Explore</div>
+    <div className='text-blue-300'>Explore</div>
   )
 }
 
